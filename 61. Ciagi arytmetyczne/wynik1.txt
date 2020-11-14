@@ -1,0 +1,2 @@
+Ilosc ciagow: 44
+maxroznica: 246849
