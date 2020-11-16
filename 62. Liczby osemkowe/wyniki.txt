@@ -1,0 +1,12 @@
+Zad1:
+Min: 1002, max: 777044
+
+Zad2:
+Najwieksza pierwsza: 639 dlugosc: 6
+
+Zad3:
+liczby takie same: 160
+liczby w pierwszym pliku wieksze: 357
+
+Zad4:
+Ilosc szostek dziesietnie: 411, ilosc szostek osemkowo: 625
