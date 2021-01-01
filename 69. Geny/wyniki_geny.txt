@@ -1,0 +1,14 @@
+Zad1
+Ilosc gatunkow: 207
+Wielkosc najwiekszego gatunku: 20
+
+Zad2
+Liczba gatunków odpornych: 8
+
+Zad3
+Najwieksza ilosc genow: 11
+Najwieksza dlugosc genu: 189
+
+Zad4
+Odpornych: 249
+Silnie odpornych: 187
