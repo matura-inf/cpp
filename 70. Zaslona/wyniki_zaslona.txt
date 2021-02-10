@@ -1,0 +1,8 @@
+Zad1
+Pozostalo: 117.705
+
+Zad2
+Ilosc tasmy do kupienia: 126
+
+Zad3
+Suma dlugosci pasow: 429
